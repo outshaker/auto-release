@@ -4,7 +4,8 @@
   "description": "hi",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/outshaker/auto-release/issues"
   },
-  "homepage": "https://github.com/outshaker/auto-release#readme"
+  "homepage": "https://github.com/outshaker/auto-release#readme",
+  "dependencies": {
+    "husky-init": "^8.0.0"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
 }
