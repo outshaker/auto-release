@@ -1,0 +1,19 @@
+{
+  "name": "auto-release",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/outshaker/auto-release.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/outshaker/auto-release/issues"
+  },
+  "homepage": "https://github.com/outshaker/auto-release#readme"
+}
